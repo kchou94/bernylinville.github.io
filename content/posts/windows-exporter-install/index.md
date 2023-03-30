@@ -2,6 +2,7 @@
 title: "通过 windows_exporter 监控 windows"
 date: 2023-03-30T15:14:23+08:00
 description: 记录 windows 监控，后续看看其他工具监控显卡、温度之类的
+featured_image: "windows-exporter-dashboard.png"
 ---
 
 ## 安装部分
@@ -20,5 +21,3 @@ windows_exporter-0.22.0-amd64.exe --collectors.enabled "[defaults], cpu_info, lo
 ## 监控面板
 
 使用了[Windows Exporter Dashboard](https://grafana.com/grafana/dashboards/14694-windows-exporter-dashboard/)
-
-![Windows Exporter Dashboard](../../assets/windows-exporter-dashboard.png)
