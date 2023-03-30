@@ -15,7 +15,7 @@ theme = "diary"
     lineNos = false
     lineNumbersInTable = true
     noClasses = true
-    style = "perldoc"
+    style = "catppuccin-mocha"
     tabWidth = 4
 
 [params]
@@ -76,7 +76,3 @@ weight = 1
 url = "/index.xml"
 name = "RSS Feed"
 weight = 5
-# [[menu.main]]
-# url = "/about/index.md"
-# name = "About"
-# weight = 4

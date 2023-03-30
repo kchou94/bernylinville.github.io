@@ -1,7 +1,7 @@
 ---
 title: "通过 windows_exporter 监控 windows"
 date: 2023-03-30T15:14:23+08:00
-draft: true
+description: 记录 windows 监控，后续看看其他工具监控显卡、温度之类的
 ---
 
 ## 安装部分
