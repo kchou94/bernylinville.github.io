@@ -6,6 +6,8 @@ description: 记录个人阅读情况
 
 ## to-read
 
+[Rust语言圣经](https://course.rs/about-book.html)
+
 [动手学深度学习](https://zh.d2l.ai/)
 
 ## reading
